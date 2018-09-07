@@ -16,8 +16,8 @@
 
 ##Parte 3
 >Crear una nueva branch a partir llamada `feature/parte-3` a partir de `feature/parte-1`
-1. Crear una migración llamada alter_items_table para alterar la tabla items agregando `softDeletes` (https://laravel.com/docs/5.5/eloquent#soft-deleting)
-2. Crear una tabla similar a la tabla #items_table donde se muestren los items eliminados
+1. Crear una migración llamada `alter_items_table` para alterar la tabla items agregando `softDeletes` (https://laravel.com/docs/5.5/eloquent#soft-deleting)
+2. Crear una tabla similar dentro del componente **ItemComponent** a la tabla `#items_table` donde se muestren los items eliminados.
 
 ## Notas:
 
