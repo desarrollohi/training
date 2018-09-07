@@ -13,6 +13,10 @@ use Illuminate\Http\Request;
 |
 */
 
-Route::middleware('auth:api')->get('/user', function (Request $request) {
-    return $request->user();
-});
+/*
+|--------------------------------------------------------------------------
+| I T E M S  R O U T E S
+|--------------------------------------------------------------------------
+ */
+
+//TODO: Generar las rutas correspondientes a los métodos del controlador ItemController (index, store, update y delete)
